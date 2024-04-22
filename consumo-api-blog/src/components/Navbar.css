@@ -1,0 +1,39 @@
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 2rem 2rem;
+    background-color: #FB45FF;
+}
+
+.navbar h2 a{
+    font-weight: 500;
+    font-size: 3rem;
+    opacity: 1;
+}
+
+.navbar a{
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.menu-btn:hover{
+    background-color: #fec8ff;
+}
+
+.navbar ul{
+    font-size: 1.5rem;
+    font-weight: 500;
+    display: flex;
+    gap: 2rem;
+}
+
+/* #FEBAFF */
+
+.menu-btn{
+    font-weight: 400;
+    background-color: #FEBAFF;
+    padding: .5rem 1rem;
+    border-radius: 1rem;
+    opacity: 1;
+}
