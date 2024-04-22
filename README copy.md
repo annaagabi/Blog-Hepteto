@@ -19,3 +19,13 @@ Aplicação web criada com Node.js que consome uma API simples RESTful com CRUD.
 
 ## 
 :globe_with_meridians: Repo GitHub: https://github.com/Hepteto/API-Blog
+
+## Autores
+
+- [@annaagabi](https://www.github.com/annaagabi)
+- [@doyklas](https://github.com/doyklas​)
+- [@GeoGustin](https://www.github.com/GeoGustin)
+- [@GabrielaLimadaLuz](https://github.com/GabrielaLimadaLuz​)
+
+## Links
+[![Figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com/file/MRoDkeoPnoejWxxrph0mlY/Blog-Hepteto?type=design&node-id=0%3A1&mode=design&t=PsxNFZHqVIRq4pqH-1) [![Vercel](https://skillicons.dev/icons?i=vercel)](https://blog-hepteto-anna.vercel.app/​)
